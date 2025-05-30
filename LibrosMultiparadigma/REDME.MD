@@ -1,5 +1,5 @@
 
-# LibrosMultiparadigma 📚
+# LibrosMultiparadigma 
 
 ## Descripción
 
@@ -50,18 +50,17 @@ python main.py
 
 ## Videos
 
-- 🎥 [Video técnico explicativo](https://drive.google.com/...)
-- 🎥 [Video de demostración de la aplicación](https://drive.google.com/...)
+- 🎥 [Video técnico explicativo y demostración de la aplicación](https://drive.google.com/file/d/1NWMq2oatNcipIuBBlCH4A6nOr4NpPMT2/view?usp=sharing)
 
 ## Equipo
 
-- **Nombre del miembro 1** – Recolector de datos, lógica de negocio funcional.
-- **Nombre del miembro 2** – Estructura OOP y diseño de clases.
-- **Nombre del miembro 3** – Interfaz con Streamlit y lógica reactiva.
+- **Ecson Isaac Lumbreras Acosta** 
+- **Erika Yazmin Bernabe Lopez** 
+- **Alejandro Monsivais Guillen** 
 
 ## Enlace al Repositorio
 
-[https://github.com/usuario/librosmultiparadigma](https://github.com/usuario/librosmultiparadigma)
+[https://github.com/usuario/librosmultiparadigma](https://github.com/Alejandro123MG/LibrosMultiparadigma.git)
 
 
 ## Nota sobre funciones no utilizadas directamente

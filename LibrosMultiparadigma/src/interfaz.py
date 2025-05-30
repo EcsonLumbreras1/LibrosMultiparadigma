@@ -30,7 +30,7 @@ def mostrar_recomendaciones(libros_dataset):
 
     if libros_filtrados:
         promedio = calcular_promedio_ranking(libros_filtrados)
-        st.write(f"📊 Promedio de ranking: {promedio:.2f}")
+        st.write(f" Promedio de ranking: {promedio:.2f}")
 
 def main():
     libros_dataset = cargar_libros_desde_csv()
