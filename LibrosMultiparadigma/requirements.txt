@@ -1,0 +1,7 @@
+# requirements.txt
+
+asyncio
+random
+requests
+pandas
+streamlit

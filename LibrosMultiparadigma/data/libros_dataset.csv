@@ -1,0 +1,201 @@
+titulo,autor,genero,ranking,fecha_publicacion
+Pride and Prejudice,Jane Austen,fiction,2.0,1813
+Alice's Adventures in Wonderland,Lewis Carroll,fiction,1.4,1865
+Wuthering Heights,Emily Brontë,fiction,2.9,1846
+A Christmas Carol,Charles Dickens,fiction,4.9,1843
+Adventures of Huckleberry Finn,Mark Twain,fiction,2.4,1876
+The Picture of Dorian Gray,Oscar Wilde,fiction,1.3,1890
+Emma,Jane Austen,fiction,3.0,1815
+Oliver Twist,Charles Dickens,fiction,2.8,1822
+Frankenstein or The Modern Prometheus,Mary Shelley,fiction,2.3,1818
+A Tale of Two Cities,Charles Dickens,fiction,3.0,1800
+The Wonderful Wizard of Oz,L. Frank Baum,fiction,2.0,1899
+Sense and Sensibility,Jane Austen,fiction,2.0,1811
+Treasure Island,Robert Louis Stevenson,fiction,4.0,1880
+Little Women,Louisa May Alcott,fiction,3.2,1848
+Gulliver's Travels,Jonathan Swift,fiction,3.9,1726
+Don Quixote,Miguel de Cervantes Saavedra,fiction,3.0,1600
+Madame Bovary,Gustave Flaubert,fiction,2.4,1856
+Great Expectations,"Charles Dickens, Charles Dickens",fiction,2.4,1861
+A Study in Scarlet,Arthur Conan Doyle,fiction,1.3,1887
+The Art of War,"孙武, Sun Tzu ",fiction,3.8,1900
+The Prince,Niccolò Machiavelli,fiction,2.5,1515
+The Call of the Wild,Jack London,fiction,2.9,1903
+Through the Looking-Glass,"Lewis Carroll, Lewis Carroll, Lewis Lewis Carroll",fiction,4.9,1865
+Wind in the Willows,"Kenneth Grahame, Michael Hague, John Burningham, David Roberts, Oxford Editor, Guo man, Yang Ma, Ernest H. Shepard, Charles Van Sandwyk, Katie Dicker",fiction,2.7,1908
+Divina Commedia,Dante Alighieri,fiction,2.2,1472
+Hamlet,William Shakespeare,fiction,3.7,1603
+The Hound of the Baskervilles,Arthur Conan Doyle,fiction,3.6,1900
+Anne of Green Gables,Lucy Maud Montgomery,fiction,1.1,1908
+Persuasion,Jane Austen,fiction,2.7,1789
+The Great Gatsby,F. Scott Fitzgerald,fiction,2.1,1920
+The Time Machine,H. G. Wells,fiction,2.0,1895
+The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,fiction,4.4,1892
+Moby Dick,Herman Melville,fiction,4.6,1851
+Mansfield Park,"Jane Austen, Jane Austen",fiction,2.0,1814
+Les Trois Mousquetaires,"Alexandre Dumas, Auguste Maquet",fiction,2.1,1844
+Ἰλιάς,Όμηρος,fiction,3.1,1505
+Candide,"Voltaire, William Fleming, Philip Littell, Jack Davenport",fiction,1.6,1746
+Ὀδύσσεια,Όμηρος,fiction,1.5,1488
+Hard Times,"Charles Dickens, García de García de Luna, Elisa Esgasa, Emilia Pardo Bazán",fiction,4.7,1854
+The Mysterious Affair at Styles,"Agatha Christie, Aric Cushing, Bookstar",fiction,2.8,1920
+Wuthering Heights,Emily Brontë,romance,4.5,1846
+Emma,Jane Austen,romance,4.3,1815
+Sense and Sensibility,Jane Austen,romance,3.6,1811
+Little Women,Louisa May Alcott,romance,2.3,1848
+Northanger Abbey,Jane Austen,romance,3.2,1818
+Ethan Frome,Edith Wharton,romance,1.4,1910
+Anna Karenina,Лев Толстой,romance,4.1,1876
+Jane Eyre,Charlotte Brontë,romance,4.3,1847
+Le Comte de Monte Cristo,Alexandre Dumas,romance,1.9,1830
+Uncle Tom's Cabin,Harriet Beecher Stowe,romance,3.7,1850
+The Moonstone,"Wilkie Collins, Pieter Koster, Sandra Kemp, Andronum (cover illustrator)",romance,1.1,1868
+Women in Love,D. H. Lawrence,romance,2.2,1877
+This Side of Paradise,F. Scott Fitzgerald,romance,2.6,1920
+Cranford,Elizabeth Cleghorn Gaskell,romance,3.7,1853
+Heart of Darkness,Joseph Conrad,romance,3.2,1899
+Jude the Obscure,Thomas Hardy,romance,4.3,1895
+The Woodlanders,Thomas Hardy,romance,4.7,1800
+कामसूत्र,"Vatsyāyana, Alfredo B. Bedoya, Richard Burton",romance,4.2,1883
+The pioneers,James Fenimore Cooper,romance,1.1,1800
+"Under the Greenwood Tree or, The Mellstock quire",Thomas Hardy,romance,4.5,1872
+The Age of Innocence,Edith Wharton,romance,2.8,1920
+Framley Parsonage,Anthony Trollope,romance,1.7,1861
+Daisy Miller,Henry James,romance,4.9,1877
+Le rouge et le noir,Stendhal,romance,3.7,1830
+The Ambassadors,Henry James,romance,5.0,1903
+Far From the Madding Crowd,Thomas Hardy,romance,4.5,1874
+Washington Square,Henry James,romance,3.8,1880
+Poirot investigates,Agatha Christie,romance,3.8,1924
+The Return of the Native,Thomas Hardy,romance,4.7,1878
+A Room with a View,Edward Morgan Forster,romance,2.6,1908
+Nostromo,Joseph Conrad,romance,1.8,1900
+Доктор Живаго,Boris Leonidovich Pasternak,romance,1.0,1957
+Howards End,Edward Morgan Forster,romance,1.6,1910
+Death on the Nile,Agatha Christie,romance,4.5,1937
+Fifty Shades of Grey,E. L. James,romance,1.0,2000
+The Portrait of a Lady,Henry James,romance,2.1,1881
+El amor en los tiempos del cólera,Gabriel Garcia Marquez,romance,1.5,1985
+Genji monogatari,Murasaki Shikibu,romance,4.5,1900
+Twilight,Stephenie Meyer,romance,3.6,2005
+The Mystery of the Blue Train,Agatha Christie,romance,3.1,1928
+Alice's Adventures in Wonderland,Lewis Carroll,fantasy,4.8,1865
+The Wonderful Wizard of Oz,L. Frank Baum,fantasy,2.6,1899
+Treasure Island,Robert Louis Stevenson,fantasy,4.9,1880
+Gulliver's Travels,Jonathan Swift,fantasy,3.8,1726
+The Prince,Niccolò Machiavelli,fantasy,2.1,1515
+Through the Looking-Glass,"Lewis Carroll, Lewis Carroll, Lewis Lewis Carroll",fantasy,2.3,1865
+Wind in the Willows,"Kenneth Grahame, Michael Hague, John Burningham, David Roberts, Oxford Editor, Guo man, Yang Ma, Ernest H. Shepard, Charles Van Sandwyk, Katie Dicker",fantasy,2.9,1908
+Five Children and It,Edith Nesbit,fantasy,4.1,1905
+A Midsummer Night's Dream,William Shakespeare,fantasy,1.0,1600
+The Lost World,Arthur Conan Doyle,fantasy,4.2,1900
+The Marvelous Land of Oz,L. Frank Baum,fantasy,2.1,1904
+Ozma of Oz,L. Frank Baum,fantasy,2.5,1907
+The Emerald City of Oz,L. Frank Baum,fantasy,2.7,1910
+Dorothy and the Wizard in Oz,L. Frank Baum,fantasy,4.1,1908
+The Lost Princess of Oz,L. Frank Baum,fantasy,1.3,1917
+The Story of the Amulet,Edith Nesbit,fantasy,2.8,1905
+The Complete Life and Adventures of Santa Claus,L. Frank Baum,fantasy,4.7,1902
+Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,fantasy,2.7,1889
+The Road to Oz,L. Frank Baum,fantasy,2.1,1909
+The Sea Fairies,L. Frank Baum,fantasy,1.7,1911
+Baum's American Fairy Tales,L. Frank Baum,fantasy,4.8,1901
+Sky Island,L. Frank Baum,fantasy,4.0,1912
+The Scarecrow of Oz,L. Frank Baum,fantasy,3.0,1915
+The Patchwork Girl of Oz,L. Frank Baum,fantasy,1.3,1913
+The Magic of Oz,L. Frank Baum,fantasy,2.1,1919
+Tik-Tok of Oz,L. Frank Baum,fantasy,2.2,1914
+Rinkitink in Oz,L. Frank Baum,fantasy,2.5,1916
+The Enchanted Castle,Edith Nesbit,fantasy,1.6,1907
+The Tin Woodman of Oz,L. Frank Baum,fantasy,2.2,1918
+The Hobbit,J.R.R. Tolkien,fantasy,1.2,1937
+Glinda of Oz,L. Frank Baum,fantasy,2.8,1920
+The Magic City,Edith Nesbit,fantasy,1.5,1910
+The Phoenix and the Carpet,Edith Nesbit,fantasy,4.2,1903
+Nineteen Eighty-Four,George Orwell,fantasy,2.4,1949
+Le avventure di Pinocchio,Carlo Collodi,fantasy,4.6,1883
+Peter Pan,J. M. Barrie,fantasy,3.9,1911
+Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,fantasy,2.3,1872
+Phantastes,George MacDonald,fantasy,4.6,1850
+Le petit prince,Antoine de Saint-Exupéry,fantasy,1.0,1943
+Harry Potter and the Philosopher's Stone,J. K. Rowling,fantasy,1.3,1997
+Alice's Adventures in Wonderland,Lewis Carroll,science_fiction,3.8,1865
+Frankenstein or The Modern Prometheus,Mary Shelley,science_fiction,1.0,1818
+The Wonderful Wizard of Oz,L. Frank Baum,science_fiction,2.6,1899
+The Time Machine,H. G. Wells,science_fiction,2.0,1895
+The Lost World,Arthur Conan Doyle,science_fiction,2.2,1900
+Dracula,Bram Stoker,science_fiction,1.4,1897
+Brave New World,Aldous Huxley,science_fiction,2.5,1932
+The Iron Heel,Jack London,science_fiction,4.3,1907
+The Invisible Man,H. G. Wells,science_fiction,4.1,0
+Flatland,Edwin Abbott Abbott,science_fiction,3.3,1884
+The War of the Worlds,H. G. Wells,science_fiction,3.1,0
+Nineteen Eighty-Four,George Orwell,science_fiction,4.3,1949
+Le Tour du Monde en Quatre-Vingts Jours,Jules Verne,science_fiction,1.8,1872
+The Princess and Curdie,George MacDonald,science_fiction,3.5,1832
+Vingt mille lieues sous les mers,"Jules Verne, Serge Micheli, Francois Riviere",science_fiction,3.4,1870
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,science_fiction,4.9,1875
+The Poison Belt,Arthur Conan Doyle,science_fiction,4.7,1913
+The Island of Dr. Moreau,"H. G. Wells, Fiona Beddall, Dobbs, Fabrizio Fiorentino, David Domínguez, Jonathan Kent, Margaret Atwood, Judit Lligonya Tenasen, Manuel Rivas Cabezuelo, Amaia Gurbindo, Judit Lligonya Tenas, Marta Seoane Rebollo",science_fiction,1.4,1896
+Fahrenheit 451,Ray Bradbury,science_fiction,2.0,1953
+The Secret Agent,Joseph Conrad,science_fiction,3.9,1907
+The Moon Pool,A. Merritt,science_fiction,1.4,1919
+At The Earth's Core And Out Of Time's Abyss,Edgar Rice Burroughs,science_fiction,1.1,1914
+The warlord of Mars #3,"Edgar Rice Burroughs, Jim Killavey, Paula Paula",science_fiction,4.9,1919
+Мы,"Евгений Иванович Замятин, Gary Kern, Alejandro Ariel González, Tavo Montañez, Sergio Hernández-Ranera Sánchez, Zilboorg Gregory, Alexander Glinka",science_fiction,4.0,1924
+De la terre à la lune,Jules Verne,science_fiction,2.2,1865
+"Thuvia, Maid of Mars","Edgar Rice Burroughs, Craig Trahan, Eric King, J. Allen St. John",science_fiction,1.5,1916
+A Princess of Mars,Edgar Rice Burroughs,science_fiction,4.6,1917
+The Napoleon of Notting Hill,Gilbert Keith Chesterton,science_fiction,1.9,1904
+Voyage au Centre de la Terre,Jules Verne,science_fiction,1.5,1867
+When the Sleeper Awakes,H. G. Wells,science_fiction,3.4,1899
+The food of the gods and how it came to earth,H. G. Wells,science_fiction,3.3,1900
+The wood beyond the world,"William Morris, William Norris, William, Morris, William Morris, William William Morris, WILLIAM MORRIS, Random House",science_fiction,4.3,1894
+R.U.R. and The insect play,"Karel Čapek, Josef Čapek",science_fiction,2.5,1920
+The Handmaid's Tale,Margaret Atwood,science_fiction,3.5,1985
+The Martian Chronicles,Ray Bradbury,science_fiction,1.8,1950
+In the days of the comet,H. G. Wells,science_fiction,3.6,1906
+A Clockwork Orange,Anthony Burgess,science_fiction,3.0,1962
+The Hunger Games,Suzanne Collins,science_fiction,1.3,2008
+On The Beach,"Nevil Shute, Gideon Haigh, G. C. Thornley, SparkNotes Staff, SparkNotes",science_fiction,3.6,1957
+The Hitch Hiker's Guide to the Galaxy,Douglas Adams,science_fiction,1.3,1979
+The Hound of the Baskervilles,Arthur Conan Doyle,mystery,4.0,1900
+The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,mystery,4.5,1892
+The Mysterious Affair at Styles,"Agatha Christie, Aric Cushing, Bookstar",mystery,3.5,1920
+The Secret Adversary,Agatha Christie,mystery,4.2,1922
+The mystery of Edwin Drood,"Charles Dickens, Samuel Luke Fildes, Charles Bernard-Derosne, TC, John Cuming Walters",mystery,4.2,1870
+His Last Bow [8 stories],Arthur Conan Doyle,mystery,2.3,1917
+The Riddle of the Sands,Erskine Childers,mystery,2.2,1903
+The Man Who Was Thursday,Gilbert Keith Chesterton,mystery,4.4,1908
+Heart of Darkness,Joseph Conrad,mystery,3.2,1899
+Преступление и наказание,Фёдор Михайлович Достоевский,mystery,3.2,1866
+Greenmantle,John Buchan,mystery,1.3,1915
+Trent's Last Case,"E. C. Bentley, E. Bentley",mystery,4.4,1913
+Harry Potter and the Philosopher's Stone,J. K. Rowling,mystery,1.3,1997
+Prester John,John Buchan,mystery,2.1,1910
+Whose Body?,Dorothy L. Sayers,mystery,3.4,1923
+Basil,"Wilkie Collins, Miguel Martínez-Lage",mystery,4.6,1852
+The Black Robe,"Wilkie Collins, Wilkie Collins",mystery,2.8,1881
+Murder on the Links,Agatha Christie,mystery,2.6,1923
+Fifty Candles,Earl Derr Biggers,mystery,4.9,1926
+The Amateur Cracksman,E. W. Hornung,mystery,3.0,1899
+Murder on the Orient Express,"Agatha Christie, Andrew Sachs, Ken Ludwig, Not Known, Graham Johnson, Bethany Bolton, Jesse Felton, Chalut, Hal Boffin",mystery,4.6,1933
+The Murder of Roger Ackroyd,Agatha Christie,mystery,2.8,1926
+Poirot investigates,Agatha Christie,mystery,4.8,1924
+The After House,Mary Roberts Rinehart,mystery,2.9,1914
+The Angel of Terror,Edgar Wallace,mystery,4.1,1923
+The Da Vinci Code,Dan Brown,mystery,4.1,2003
+The Man in the Brown Suit,Agatha Christie,mystery,2.7,1924
+The Circular Staircase,Mary Roberts Rinehart,mystery,3.7,1908
+Tales of Terror and Mystery,Arthur Conan Doyle,mystery,3.5,1963
+Death on the Nile,Agatha Christie,mystery,1.1,1937
+The Law and the Lady,"Wilkie Collins, Camille de Cendrey",mystery,1.4,1875
+The Lodger,Marie Belloc Lowndes,mystery,2.0,1913
+R. Holmes & Co.,John Kendrick Bangs,mystery,3.8,1906
+L'affaire Lerouge,Émile Gaboriau,mystery,4.3,1800
+The daffodil murder,Edgar Wallace,mystery,2.4,1921
+The A.B.C. Murders,Agatha Christie,mystery,4.5,1936
+4:50 from Paddington,Agatha Christie,mystery,3.2,1957
+The Mysterious Key And What It Opened,Louisa May Alcott,mystery,2.0,2004
+Dead Men Tell No Tales,E. W. Hornung,mystery,4.5,1899
+The dead secret,Wilkie Collins,mystery,4.5,1857
