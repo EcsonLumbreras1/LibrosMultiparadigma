@@ -7,7 +7,7 @@
 
 ## Requisitos
 
-- Python 3.9 o superior
+- Python 3.9 o superior.
 - `pandas`
 - `requests`
 - `streamlit`
